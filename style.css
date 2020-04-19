@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #319275;
+    color: white;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+    height: 100vh;
+}
+
+.clock {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    line-height: 4rem;
+    padding-top: 10%;
+}
+
+.heading p {
+    font-size: 1.2rem;
+}
+
+.clock-time {
+    font-size: 3rem;
+    letter-spacing: 5px;
+}
