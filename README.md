@@ -1,4 +1,4 @@
-# color-clock-js
+# Color Clock JS
 
 Project to teach vanilla JavaScript. 
 [Live demo of the project](https://aam-himel.github.io/color-clock-js/)
